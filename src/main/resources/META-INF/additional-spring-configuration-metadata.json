@@ -1,0 +1,29 @@
+{
+  "properties": [
+    {
+      "name": "bot.setting.token",
+      "type": "java.lang.String",
+      "description": "Discord bot token"
+    },
+    {
+      "name": "bot.setting.version",
+      "type": "java.lang.String",
+      "description": "Discord bot version"
+    },
+    {
+      "name": "bot.setting.ownerId",
+      "type": "java.lang.String",
+      "description": "Discord bot owner"
+    },
+    {
+      "name": "bot.setting.guid-development-id",
+      "type": "java.lang.String",
+      "description": "For development only: Upserting commands to a specific server will update the commands cache instantly, instead of taking up to an hour on global commands."
+    },
+    {
+      "name": "bot.setting.coOwnerIds",
+      "type": "java.lang.String",
+      "description": "Discord bot co-owners (separated by a comma)"
+    }
+  ]
+}
