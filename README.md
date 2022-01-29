@@ -16,7 +16,8 @@
 <p align="center">
   <a href="#how-to-use">How to use</a> •
   <a href="#variables">Variables</a> •
-  <a href="#licence">Licence</a> 
+  <a href="#licence">Licence</a> •
+  <a href="#links">Links</a> 
 </p>
 
 
@@ -43,3 +44,9 @@
 ## Licence
 
 Project under [MIT](https://github.com/brandonfl/discord-slash-command-example/blob/master/LICENSE) licence
+
+## Links
+
+- [Discord Slash Commands FAQ](https://support.discord.com/hc/fr/articles/1500000368501-Slash-Commands-FAQ)
+- [JDA (Java Discord API)](https://github.com/DV8FromTheWorld/JDA#jda-java-discord-api)
+- [JDA-Chewtils](https://github.com/Chew/JDA-Chewtils)
